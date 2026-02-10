@@ -1,0 +1,852 @@
+{
+    "riders": [
+        {
+            "id": 1,
+            "name": "Francesco Bagnaia",
+            "team": "Ducati Lenovo Team",
+            "number": 1,
+            "nationality": "Italian",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/francesco-bagnaia.png"
+        },
+        {
+            "id": 2,
+            "name": "Marc Marquez",
+            "team": "Ducati Lenovo Team",
+            "number": 93,
+            "nationality": "Spanish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/marc-marquez.png"
+        },
+        {
+            "id": 3,
+            "name": "Jorge Martin",
+            "team": "Aprilia Racing",
+            "number": 89,
+            "nationality": "Spanish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/jorge-martin.png"
+        },
+        {
+            "id": 4,
+            "name": "Marco Bezzecchi",
+            "team": "Aprilia Racing",
+            "number": 72,
+            "nationality": "Italian",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/marco-bezzecchi.png"
+        },
+        {
+            "id": 5,
+            "name": "Pedro Acosta",
+            "team": "Red Bull KTM Factory Racing",
+            "number": 31,
+            "nationality": "Spanish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/pedro-acosta.png"
+        },
+        {
+            "id": 6,
+            "name": "Brad Binder",
+            "team": "Red Bull KTM Factory Racing",
+            "number": 33,
+            "nationality": "South African",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/brad-binder.png"
+        },
+        {
+            "id": 7,
+            "name": "Fabio Quartararo",
+            "team": "Monster Energy Yamaha MotoGP",
+            "number": 20,
+            "nationality": "French",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/fabio-quartararo.png"
+        },
+        {
+            "id": 8,
+            "name": "Alex Rins",
+            "team": "Monster Energy Yamaha MotoGP",
+            "number": 42,
+            "nationality": "Spanish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/alex-rins.png"
+        },
+        {
+            "id": 9,
+            "name": "Joan Mir",
+            "team": "Repsol Honda Team",
+            "number": 36,
+            "nationality": "Spanish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/joan-mir.png"
+        },
+        {
+            "id": 10,
+            "name": "Luca Marini",
+            "team": "Repsol Honda Team",
+            "number": 10,
+            "nationality": "Italian",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/luca-marini.png"
+        },
+        {
+            "id": 11,
+            "name": "Maverick Vinales",
+            "team": "Red Bull KTM Tech3",
+            "number": 12,
+            "nationality": "Spanish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/maverick-vinales.png"
+        },
+        {
+            "id": 12,
+            "name": "Enea Bastianini",
+            "team": "Red Bull KTM Tech3",
+            "number": 23,
+            "nationality": "Italian",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/enea-bastianini.png"
+        },
+        {
+            "id": 13,
+            "name": "Johann Zarco",
+            "team": "LCR Honda",
+            "number": 5,
+            "nationality": "French",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/johann-zarco.png"
+        },
+        {
+            "id": 14,
+            "name": "Diogo Moreira",
+            "team": "LCR Honda",
+            "number": 10,
+            "nationality": "Brazilian",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/diogo-moreira.png"
+        },
+        {
+            "id": 15,
+            "name": "Franco Morbidelli",
+            "team": "Pertamina Enduro VR46 Ducati",
+            "number": 21,
+            "nationality": "Italian",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/franco-morbidelli.png"
+        },
+        {
+            "id": 16,
+            "name": "Fabio Di Giannantonio",
+            "team": "Pertamina Enduro VR46 Ducati",
+            "number": 49,
+            "nationality": "Italian",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/fabio-di-giannantonio.png"
+        },
+        {
+            "id": 17,
+            "name": "Alex Marquez",
+            "team": "Gresini Racing Ducati",
+            "number": 73,
+            "nationality": "Spanish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/alex-marquez.png"
+        },
+        {
+            "id": 18,
+            "name": "Fermin Aldeguer",
+            "team": "Gresini Racing Ducati",
+            "number": 54,
+            "nationality": "Spanish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/fermin-aldeguer.png"
+        },
+        {
+            "id": 19,
+            "name": "Toprak Razgatlioglu",
+            "team": "Prima Pramac Racing",
+            "number": 54,
+            "nationality": "Turkish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/toprak-razgatlioglu.png"
+        },
+        {
+            "id": 20,
+            "name": "Jack Miller",
+            "team": "Prima Pramac Racing",
+            "number": 43,
+            "nationality": "Australian",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/jack-miller.png"
+        },
+        {
+            "id": 21,
+            "name": "Raul Fernandez",
+            "team": "Trackhouse Aprilia",
+            "number": 25,
+            "nationality": "Spanish",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/raul-fernandez.png"
+        },
+        {
+            "id": 22,
+            "name": "Ai Ogura",
+            "team": "Trackhouse Aprilia",
+            "number": 79,
+            "nationality": "Japanese",
+            "category": "MotoGP",
+            "image": "https://photos.motogp.com/riders/ai-ogura.png"
+        },
+        {
+            "id": 23,
+            "name": "David Alonso",
+            "team": "CFMoto Aspar Team",
+            "number": 80,
+            "nationality": "Colombian",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/david-alonso.png"
+        },
+        {
+            "id": 24,
+            "name": "Daniel Holgado",
+            "team": "CFMoto Aspar Team",
+            "number": 96,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/daniel-holgado.png"
+        },
+        {
+            "id": 25,
+            "name": "Collin Veijer",
+            "team": "Red Bull KTM Ajo",
+            "number": 95,
+            "nationality": "Dutch",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/collin-veijer.png"
+        },
+        {
+            "id": 26,
+            "name": "Jose Antonio Rueda",
+            "team": "Red Bull KTM Ajo",
+            "number": 99,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/jose-antonio-rueda.png"
+        },
+        {
+            "id": 27,
+            "name": "Ivan Ortola",
+            "team": "MSi Racing Team",
+            "number": 48,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/ivan-ortola.png"
+        },
+        {
+            "id": 28,
+            "name": "Angel Piqueras",
+            "team": "MSi Racing Team",
+            "number": 36,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/angel-piqueras.png"
+        },
+        {
+            "id": 29,
+            "name": "Sergio Garcia",
+            "team": "ITALJET Gresini Moto2",
+            "number": 3,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/sergio-garcia.png"
+        },
+        {
+            "id": 30,
+            "name": "Alonso Lopez",
+            "team": "ITALJET Gresini Moto2",
+            "number": 21,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/alonso-lopez.png"
+        },
+        {
+            "id": 31,
+            "name": "Arón Canet",
+            "team": "Elf Marc VDS Racing Team",
+            "number": 44,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/aron-canet.png"
+        },
+        {
+            "id": 32,
+            "name": "Joe Roberts",
+            "team": "OnlyFans American Racing",
+            "number": 16,
+            "nationality": "American",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/joe-roberts.png"
+        },
+        {
+            "id": 33,
+            "name": "Celestino Vietti",
+            "team": "SpeedRS Team",
+            "number": 13,
+            "nationality": "Italian",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/celestino-vietti.png"
+        },
+        {
+            "id": 34,
+            "name": "Manuel Gonzalez",
+            "team": "Liqui Moly Dynavolt Intact GP",
+            "number": 18,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/manuel-gonzalez.png"
+        },
+        {
+            "id": 35,
+            "name": "Tony Arbolino",
+            "team": "Fantic Racing",
+            "number": 14,
+            "nationality": "Italian",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/tony-arbolino.png"
+        },
+        {
+            "id": 36,
+            "name": "Adrian Fernandez",
+            "team": "Leopard Racing",
+            "number": 31,
+            "nationality": "Spanish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/adrian-fernandez.png"
+        },
+        {
+            "id": 37,
+            "name": "Guido Pini",
+            "team": "Leopard Racing",
+            "number": 93,
+            "nationality": "Italian",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/guido-pini.png"
+        },
+        {
+            "id": 38,
+            "name": "David Munoz",
+            "team": "Liqui Moly Dynavolt Intact GP",
+            "number": 64,
+            "nationality": "Spanish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/david-munoz.png"
+        },
+        {
+            "id": 39,
+            "name": "David Almansa",
+            "team": "Liqui Moly Dynavolt Intact GP",
+            "number": 22,
+            "nationality": "Spanish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/david-almansa.png"
+        },
+        {
+            "id": 40,
+            "name": "Maximo Quiles",
+            "team": "CFMoto Aspar Team",
+            "number": 28,
+            "nationality": "Spanish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/maximo-quiles.png"
+        },
+        {
+            "id": 41,
+            "name": "Joel Kelso",
+            "team": "GRYD - MLav Racing",
+            "number": 66,
+            "nationality": "Australian",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/joel-kelso.png"
+        },
+        {
+            "id": 42,
+            "name": "Ryusei Yamanaka",
+            "team": "Frinsa - MT Helmets - MSi",
+            "number": 6,
+            "nationality": "Japanese",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/ryusei-yamanaka.png"
+        },
+        {
+            "id": 43,
+            "name": "Veda Ega Pratama",
+            "team": "Honda Team Asia",
+            "number": 54,
+            "nationality": "Indonesian",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/veda-pratama.png"
+        },
+        {
+            "id": 44,
+            "name": "Hakim Danish",
+            "team": "Frinsa - MT Helmets - MSi",
+            "number": 13,
+            "nationality": "Malaysian",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/hakim-danish.png"
+        },
+        {
+            "id": 45,
+            "name": "Eddie O'Shea",
+            "team": "GRYD - MLav Racing",
+            "number": 8,
+            "nationality": "British",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/eddie-oshea.png"
+        },
+        {
+            "id": 46,
+            "name": "Zen Mitani",
+            "team": "Honda Team Asia",
+            "number": 32,
+            "nationality": "Japanese",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/zen-mitani.png"
+        },
+        {
+            "id": 47,
+            "name": "Marco Morelli",
+            "team": "CFMoto Aspar Team",
+            "number": 19,
+            "nationality": "Argentine",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/marco-morelli.png"
+        },
+        {
+            "id": 48,
+            "name": "Adrián Cruces",
+            "team": "CIP Green Power",
+            "number": 11,
+            "nationality": "Spanish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/adrian-cruces.png"
+        },
+        {
+            "id": 49,
+            "name": "Scott Ogden",
+            "team": "CIP Green Power",
+            "number": 19,
+            "nationality": "British",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/scott-ogden.png"
+        },
+        {
+            "id": 50,
+            "name": "Matteo Bertelle",
+            "team": "LevelUp - MTA",
+            "number": 18,
+            "nationality": "Italian",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/matteo-bertelle.png"
+        },
+        {
+            "id": 51,
+            "name": "Joel Esteban",
+            "team": "LevelUp - MTA",
+            "number": 7,
+            "nationality": "Spanish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/joel-esteban.png"
+        },
+        {
+            "id": 52,
+            "name": "Brian Uriarte",
+            "team": "Red Bull KTM Ajo",
+            "number": 51,
+            "nationality": "Spanish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/brian-uriarte.png"
+        },
+        {
+            "id": 53,
+            "name": "Rico Salmela",
+            "team": "Red Bull KTM Tech3",
+            "number": 65,
+            "nationality": "Finnish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/rico-salmela.png"
+        },
+        {
+            "id": 54,
+            "name": "Valentín Perrone",
+            "team": "Red Bull KTM Tech3",
+            "number": 78,
+            "nationality": "Argentine",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/valentin-perrone.png"
+        },
+        {
+            "id": 55,
+            "name": "Nicola Carraro",
+            "team": "Rivacold Snipers Team",
+            "number": 10,
+            "nationality": "Italian",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/nicola-carraro.png"
+        },
+        {
+            "id": 56,
+            "name": "Jesus Rios",
+            "team": "Rivacold Snipers Team",
+            "number": 12,
+            "nationality": "Spanish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/jesus-rios.png"
+        },
+        {
+            "id": 57,
+            "name": "Casey O'Gorman",
+            "team": "SIC58 Squadra Corse",
+            "number": 67,
+            "nationality": "Irish",
+            "category": "Moto3",
+            "image": "https://photos.motogp.com/riders/casey-ogorman.png"
+        },
+        {
+            "id": 58,
+            "name": "Izan Guevara",
+            "team": "BLU CRU Pramac Yamaha Moto2",
+            "number": 28,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/izan-guevara.png"
+        },
+        {
+            "id": 59,
+            "name": "Alberto Ferrandez",
+            "team": "BLU CRU Pramac Yamaha Moto2",
+            "number": 54,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/alberto-ferrandez.png"
+        },
+        {
+            "id": 60,
+            "name": "Filip Salač",
+            "team": "American Racing Team",
+            "number": 52,
+            "nationality": "Czech",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/filip-salac.png"
+        },
+        {
+            "id": 61,
+            "name": "Deniz Öncü",
+            "team": "Elf Marc VDS Racing Team",
+            "number": 53,
+            "nationality": "Turkish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/deniz-oncu.png"
+        },
+        {
+            "id": 62,
+            "name": "Barry Baltus",
+            "team": "Fantic Racing",
+            "number": 7,
+            "nationality": "Belgian",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/barry-baltus.png"
+        },
+        {
+            "id": 63,
+            "name": "Mario Aji",
+            "team": "Honda Team Asia",
+            "number": 34,
+            "nationality": "Indonesian",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/mario-aji.png"
+        },
+        {
+            "id": 64,
+            "name": "Taiyo Furusato",
+            "team": "Honda Team Asia",
+            "number": 72,
+            "nationality": "Japanese",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/taiyo-furusato.png"
+        },
+        {
+            "id": 65,
+            "name": "Adrian Huertas",
+            "team": "Italtrans Racing Team",
+            "number": 99,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/adrian-huertas.png"
+        },
+        {
+            "id": 66,
+            "name": "Daniel Muñoz",
+            "team": "Italtrans Racing Team",
+            "number": 17,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/daniel-munoz-moto2.png"
+        },
+        {
+            "id": 67,
+            "name": "Jorge Navarro",
+            "team": "KLINT Forward Racing",
+            "number": 9,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/jorge-navarro.png"
+        },
+        {
+            "id": 68,
+            "name": "Alex Escrig",
+            "team": "KLINT Forward Racing",
+            "number": 11,
+            "nationality": "Spanish",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/alex-escrig.png"
+        },
+        {
+            "id": 69,
+            "name": "Senna Agius",
+            "team": "Liqui Moly Dynavolt Intact GP",
+            "number": 81,
+            "nationality": "Australian",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/senna-agius.png"
+        },
+        {
+            "id": 70,
+            "name": "Ayumu Sasaki",
+            "team": "RW-Idrofoglia Racing",
+            "number": 22,
+            "nationality": "Japanese",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/ayumu-sasaki.png"
+        },
+        {
+            "id": 71,
+            "name": "Zonta van den Goorbergh",
+            "team": "RW-Idrofoglia Racing",
+            "number": 84,
+            "nationality": "Dutch",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/zonta-van-den-goorbergh.png"
+        },
+        {
+            "id": 72,
+            "name": "Luca Lunetta",
+            "team": "SpeedRS Team",
+            "number": 58,
+            "nationality": "Italian",
+            "category": "Moto2",
+            "image": "https://photos.motogp.com/riders/luca-lunetta.png"
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "name": "Ducati Lenovo Team",
+            "manufacturer": "Ducati",
+            "category": "MotoGP",
+            "principal": "Davide Tardozzi"
+        },
+        {
+            "id": 2,
+            "name": "Aprilia Racing",
+            "manufacturer": "Aprilia",
+            "category": "MotoGP",
+            "principal": "Massimo Rivola"
+        },
+        {
+            "id": 3,
+            "name": "Red Bull KTM Factory Racing",
+            "manufacturer": "KTM",
+            "category": "MotoGP",
+            "principal": "Francesco Guidotti"
+        },
+        {
+            "id": 4,
+            "name": "Monster Energy Yamaha MotoGP",
+            "manufacturer": "Yamaha",
+            "category": "MotoGP",
+            "principal": "Lin Jarvis"
+        },
+        {
+            "id": 5,
+            "name": "Repsol Honda Team",
+            "manufacturer": "Honda",
+            "category": "MotoGP",
+            "principal": "Alberto Puig"
+        },
+        {
+            "id": 6,
+            "name": "CFMoto Aspar Team",
+            "manufacturer": "CFMoto (KTM)",
+            "category": "Moto3, Moto2",
+            "principal": "Jorge Martínez Aspar"
+        },
+        {
+            "id": 7,
+            "name": "Leopard Racing",
+            "manufacturer": "Honda",
+            "category": "Moto3",
+            "principal": "Christian Lundberg"
+        }
+    ],
+    "circuits": [
+        {
+            "id": 1,
+            "name": "Chang International Circuit",
+            "location": "Buriram, Thailand",
+            "length": "4.554 km",
+            "corners": 12,
+            "record": "1:28.700 (Bagnaia, 2024)",
+            "date_2026": "Feb 27 - Mar 1",
+            "image": "https://photos.motogp.com/circuits/buriram.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Autódromo Internacional Ayrton Senna",
+            "location": "Goiânia, Brazil",
+            "length": "3.835 km",
+            "corners": 12,
+            "record": "N/A",
+            "date_2026": "Mar 20-22",
+            "image": "https://photos.motogp.com/circuits/brazil.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Circuit of the Americas",
+            "location": "Austin, USA",
+            "length": "5.513 km",
+            "corners": 20,
+            "record": "2:00.864 (Viñales, 2024)",
+            "date_2026": "Mar 27-29",
+            "image": "https://photos.motogp.com/circuits/cota.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Lusail International Circuit",
+            "location": "Lusail, Qatar",
+            "length": "5.380 km",
+            "corners": 16,
+            "record": "1:50.499 (Marquez, 2025)",
+            "date_2026": "Apr 10-12",
+            "image": "https://photos.motogp.com/circuits/qatar.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Circuito de Jerez – Ángel Nieto",
+            "location": "Jerez, Spain",
+            "length": "4.423 km",
+            "corners": 13,
+            "record": "1:35.610 (Quartararo, 2025)",
+            "date_2026": "Apr 24-26",
+            "image": "https://photos.motogp.com/circuits/jerez.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Circuit Bugatti",
+            "location": "Le Mans, France",
+            "length": "4.185 km",
+            "corners": 14,
+            "record": "1:29.324 (Quartararo, 2025)",
+            "date_2026": "May 8-10",
+            "image": "https://photos.motogp.com/circuits/lemans.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Circuit de Barcelona-Catalunya",
+            "location": "Montmeló, Spain",
+            "length": "4.657 km",
+            "corners": 14,
+            "record": "1:37.536 (Marquez, 2025)",
+            "date_2026": "May 15-17",
+            "image": "https://photos.motogp.com/circuits/catalonia.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Autodromo Internazionale del Mugello",
+            "location": "Mugello, Italy",
+            "length": "5.245 km",
+            "corners": 15,
+            "record": "1:44.169 (Marquez, 2025)",
+            "date_2026": "May 29-31",
+            "image": "https://photos.motogp.com/circuits/mugello.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Balaton Park Circuit",
+            "location": "Balatonfőkajár, Hungary",
+            "length": "4.075 km",
+            "corners": 17,
+            "record": "1:36.518 (Marquez, 2025)",
+            "date_2026": "Jun 5-7",
+            "image": "https://photos.motogp.com/circuits/hungary.jpg"
+        },
+        {
+            "id": 10,
+            "name": "TT Circuit Assen",
+            "location": "Assen, Netherlands",
+            "length": "4.555 km",
+            "corners": 18,
+            "record": "1:30.540 (Bagnaia, 2024)",
+            "date_2026": "Jun 26-28",
+            "image": "https://photos.motogp.com/circuits/assen.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Silverstone Circuit",
+            "location": "Silverstone, UK",
+            "length": "5.891 km",
+            "corners": 18,
+            "record": "1:57.233 (Quartararo, 2025)",
+            "date_2026": "Aug 7-9",
+            "image": "https://photos.motogp.com/circuits/silverstone.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Circuit Ricardo Tormo",
+            "location": "Valencia, Spain",
+            "length": "4.005 km",
+            "corners": 14,
+            "record": "1:28.809 (Bezzecchi, 2025)",
+            "date_2026": "Nov 20-22",
+            "image": "https://photos.motogp.com/circuits/valencia.jpg"
+        }
+    ],
+    "regulations": [
+        {
+            "id": 1,
+            "category": "Technical",
+            "title": "Engine Freeze 2026",
+            "description": "Engine specifications are frozen for 2026 to control costs before the 2027 transition to 850cc engines. Manufacturers must use 2025 designs."
+        },
+        {
+            "id": 2,
+            "category": "Sporting",
+            "title": "Bike Restart Rules",
+            "description": "Riders cannot restart stopped engines in run-off areas. Motorcycles must be moved behind barriers for restart attempts."
+        },
+        {
+            "id": 3,
+            "category": "Flags",
+            "title": "Yellow and Red Striped Flag",
+            "description": "Indicates track adhesion affected by factors other than rain (oil, gravel, debris)."
+        },
+        {
+            "id": 4,
+            "category": "Flags",
+            "title": "White Flag with Red Cross",
+            "description": "Indicates drops of rain on that section of the track."
+        }
+    ],
+    "messages": []
+}
