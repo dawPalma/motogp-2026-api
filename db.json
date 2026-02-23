@@ -232,7 +232,7 @@
       "number": 99,
       "nationality": "Spanish",
       "category": "Moto2",
-      "image": null
+      "image": "https://resources.motogp.pulselive.com/photo-resources/2026/02/23/993a3b65-6b1f-4edf-b8b9-2402af625997/J7a8ZI7x.png?width=250"
     },
     {
       "id": 27,
@@ -250,7 +250,7 @@
       "number": 36,
       "nationality": "Spanish",
       "category": "Moto2",
-      "image": null
+      "image": "https://resources.motogp.pulselive.com/photo-resources/2026/02/23/d041c55f-04e7-4efc-8c8a-97745000538e/1jSZ8Z6p.png?width=250"
     },
     {
       "id": 29,
@@ -385,7 +385,7 @@
       "number": 54,
       "nationality": "Indonesian",
       "category": "Moto3",
-      "image": null
+      "image": "https://resources.motogp.pulselive.com/photo-resources/2026/02/23/be88dd1e-d632-47b1-a7c2-4d9c889032ac/lD5xewFa.png?width=250"
     },
     {
       "id": 44,
@@ -412,7 +412,7 @@
       "number": 32,
       "nationality": "Japanese",
       "category": "Moto3",
-      "image": null
+      "image": ""
     },
     {
       "id": 47,
@@ -502,7 +502,7 @@
       "number": 12,
       "nationality": "Spanish",
       "category": "Moto3",
-      "image": null
+      "image": "https://resources.motogp.pulselive.com/photo-resources/2025/11/07/212dd514-d7e7-4d04-a5eb-d2b97424374e/vpq6u6Rl.png?width=250"
     },
     {
       "id": 57,
@@ -646,7 +646,7 @@
       "number": 58,
       "nationality": "Italian",
       "category": "Moto2",
-      "image": null
+      "image": "https://resources.motogp.pulselive.com/photo-resources/2026/02/23/42fa87f3-1ed4-4573-bfaa-c2a99b803f9f/NdoJK2jK.png?width=250"
     }
   ],
   "teams": [
